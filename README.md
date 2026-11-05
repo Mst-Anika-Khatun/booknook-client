@@ -38,3 +38,18 @@ https://booknook-server-dvp2.onrender.com
 ## GitHub Repositories
 - Client: https://github.com/Mst-Anika-Khatun/booknook-client
 - Server: https://github.com/Mst-Anika-Khatun/booknook-server
+## Live API
+https://booknook-server-dvp2.onrender.com
+
+## Technologies
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Main Features
+- Book management API
+- Borrow and return books
+- Protected routes
+- Book availability tracking
+- User-specific book management
