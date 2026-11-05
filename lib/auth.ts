@@ -8,6 +8,10 @@ dns.setServers(["8.8.8.8"]);
 const client = new MongoClient(process.env.MONGODB_URI!);
 const db = client.db(process.env.DB_NAME || 'booknook');
 export const auth = betterAuth({
+    trustedOrigins: [
+    "http://localhost:3000",
+    "https://booknook-client-lime.vercel.app"
+  ],
   database: mongodbAdapter(db),
   emailAndPassword: { enabled: true, minPasswordLength: 6 },
   socialProviders: process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET ? {
