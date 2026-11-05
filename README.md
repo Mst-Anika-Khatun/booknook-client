@@ -70,3 +70,6 @@ Users can edit and delete books that belong to them.
 
 ## Borrowing Books
 Readers can borrow books when copies are available.
+
+## Returning Books
+Returning a borrowed book restores its available copy count.
