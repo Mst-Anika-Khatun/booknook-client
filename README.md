@@ -58,3 +58,6 @@ BookNook helps readers manage a shared online library.
 
 ## Book Discovery
 Users can browse available books and view their details.
+
+## Book Categories
+Books are organized into Fiction, Science, History, Kids, and Others.
