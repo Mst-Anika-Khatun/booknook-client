@@ -61,3 +61,6 @@ Users can browse available books and view their details.
 
 ## Book Categories
 Books are organized into Fiction, Science, History, Kids, and Others.
+
+## Adding Books
+Signed-in users can add books with descriptions and cover images.
