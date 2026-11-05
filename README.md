@@ -1,6 +1,6 @@
 # BookNook — A Small Online Library
 
-Live site: **Add your deployed website URL here**
+Live site: https://booknook-client-lime.vercel.app
 
 ## Features
 - BetterAuth email/password and Google authentication with persistent sessions.
