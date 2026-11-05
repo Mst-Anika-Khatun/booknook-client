@@ -64,3 +64,6 @@ Books are organized into Fiction, Science, History, Kids, and Others.
 
 ## Adding Books
 Signed-in users can add books with descriptions and cover images.
+
+## Managing Books
+Users can edit and delete books that belong to them.
