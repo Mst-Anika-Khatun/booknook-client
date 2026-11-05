@@ -76,3 +76,6 @@ Returning a borrowed book restores its available copy count.
 
 ## Authentication
 The application supports account-based authentication.
+
+## Protected Actions
+Protected operations require user authentication.
