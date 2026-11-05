@@ -20,3 +20,21 @@ Live site: https://booknook-client-lime.vercel.app
 6. For imgbb upload, set `NEXT_PUBLIC_IMGBB_API_KEY`; or paste an existing book image URL.
 
 Never commit `.env.local`. See root SETUP.md for deployment instructions.
+## Technologies Used
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Better Auth
+- MongoDB
+- Express.js
+
+## Live Application
+https://booknook-client-lime.vercel.app
+
+## Backend API
+https://booknook-server-dvp2.onrender.com
+
+## GitHub Repositories
+- Client: https://github.com/Mst-Anika-Khatun/booknook-client
+- Server: https://github.com/Mst-Anika-Khatun/booknook-server
