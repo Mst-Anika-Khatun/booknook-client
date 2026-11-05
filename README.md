@@ -79,3 +79,6 @@ The application supports account-based authentication.
 
 ## Protected Actions
 Protected operations require user authentication.
+
+## Deployment
+The frontend is deployed on Vercel and the backend on Render.
