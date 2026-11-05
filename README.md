@@ -53,3 +53,5 @@ https://booknook-server-dvp2.onrender.com
 - Protected routes
 - Book availability tracking
 - User-specific book management
+## Project Overview
+BookNook helps readers manage a shared online library.
