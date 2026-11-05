@@ -67,3 +67,6 @@ Signed-in users can add books with descriptions and cover images.
 
 ## Managing Books
 Users can edit and delete books that belong to them.
+
+## Borrowing Books
+Readers can borrow books when copies are available.
